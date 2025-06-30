@@ -1,6 +1,3 @@
-<!-- TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them. -->
-
 This package provides you the `material 3 expressive` `split button` for the
 first time in flutter. This package includes same popup menu with a huge
 customization options.
